@@ -1,1 +1,1 @@
-
+This is the Backend for an AI-powered tutoring web application. It facilitates tutoring for students working on assigned projects/assignments making sure to give project specific assistance and guidance
